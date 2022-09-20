@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer and Automation Tester
 -----------------------------------
-
+<br/> 
 
 ### <div align="center">Dopo il diploma tecnico informatico, ho seguito corsi di programmazione web e testing e attualmente sono alla ricerca di un occupazione in ambito IT.</div>  
   
-
+<br/> 
 - 🌏Based in Naples  
   
 
