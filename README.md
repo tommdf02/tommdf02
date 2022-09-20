@@ -53,8 +53,10 @@ Web Developer and Automation Tester
 
 </td><td valign="top" width="33%">
 
+### Automation Testing 
+<div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" align="left" height="50" width="50" />  
-
+</div>
 
 </td></tr></table>  
 
