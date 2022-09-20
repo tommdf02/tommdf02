@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Automation Tester
 -----------------------------------
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Dopo il diploma tecnico informatico, ho seguito corsi di programmazione web e testing e attualmente sono alla ricerca di un occupazione in ambito IT.</div>  
   
