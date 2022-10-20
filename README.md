@@ -13,7 +13,7 @@ Web Developer and Automation Tester
  
 - ❓ Puoi scrivermi a tomdifalco13@gmail.com 
 
-- 💻 Sto imparando Python
+- 💻 Sto studiando Python
   
 
 
