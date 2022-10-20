@@ -9,9 +9,11 @@ Web Developer and Automation Tester
   
 
 
-- 🌏Based in Naples  
+- 🌏 Based in Naples  
  
 - ❓ Puoi scrivermi a tomdifalco13@gmail.com 
+
+- 💻 Sto imparando Python
   
 
 
@@ -44,6 +46,7 @@ Web Developer and Automation Tester
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </div>
 
 </td><td valign="top" width="33%">
