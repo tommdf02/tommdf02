@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tommaso Di Falco
+Hello, World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tommaso Di Falco
 ========================================================================================================================================
 <br/>  
 
@@ -55,7 +55,7 @@ Web Developer and Automation Tester
 
 </td></tr></table>  
 
-<img src="https://camo.githubusercontent.com/746929033f1cdb8ed4b766dd63c56a83b996c73d95546e5ba283e935f9bd9d32/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d67696f76616365726c6973696f266c616e67735f636f756e743d3130267469746c655f636f6c6f723d66393733313626746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d6639373331362662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e26637573746f6d5f7469746c653d546f70253230254c616e677561676573" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommdf02&amp;langs_count=10&amp;title_color=f97316&amp;text_color=ffffff&amp;icon_color=f97316&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" style="max-width: 100%;">
+<a href="https://github.com/tommdf02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommdf02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## Connect with me  
 <div align="center">
