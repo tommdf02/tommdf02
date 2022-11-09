@@ -2,7 +2,7 @@ Hello, World ![](https://user-images.githubusercontent.com/18350557/176309783-07
 ========================================================================================================================================
 <br/>  
 
-Web Developer and Automation Tester
+Jr Developer & Tester
 -----------------------------------
 
 ### <div align="center">Dopo il diploma tecnico informatico, ho seguito corsi di programmazione web e testing e attualmente sono alla ricerca di un occupazione in ambito IT.</div>  
