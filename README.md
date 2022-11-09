@@ -1,4 +1,6 @@
-<Ciao, Mondo!>[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 Io sono Tommaso Di Falco
 ========================================================================================================================================
